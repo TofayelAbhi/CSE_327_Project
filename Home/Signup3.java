@@ -222,7 +222,6 @@ public class Signup3 extends JFrame implements ActionListener {
         }else if (r4.isSelected()){
             atype = "Recurring Deposit Account";
         }
-
         Random ran = new Random();
         long first7 = (ran.nextLong() % 90000000L) + 1409963000000000L;
         String cardno = "" + Math.abs(first7);
