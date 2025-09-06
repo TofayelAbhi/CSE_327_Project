@@ -1,6 +1,6 @@
 #  Bank Management System
 
-A **Java-based desktop application** built as part of the **CSE 327: Software Engineering** course project.
+A **Java-based desktop application** built as part of the **Software Engineering** course project.
 This system simulates core banking operations such as **balance inquiry, cash withdrawal, fast cash, deposits, and mini statements**.
 
 ---
@@ -31,7 +31,7 @@ This system simulates core banking operations such as **balance inquiry, cash wi
 * **Class Diagram** – Shows system architecture (ATM, Account, Transaction, etc.)
 * **Database Schema** – Relational tables for Users, Accounts, Transactions
 
-*(Full diagrams and documentation available in the [Wiki](https://github.com/TofayelAbhi/CSE_327_Project/wiki))*
+*(Full diagrams and documentation available in the [Wiki](https://github.com/TofayelAbhi/ATM-Simulation-Bank-Management/wiki))*
 
 ---
 
@@ -40,8 +40,8 @@ This system simulates core banking operations such as **balance inquiry, cash wi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TofayelAbhi/CSE_327_Project.git
-   cd CSE_327_Project
+   git clone https://github.com/TofayelAbhi/ATM-Simulation-Bank-Management.git
+   cd ATM-Simulation-Bank-Management
    ```
 2. Import project into **NetBeans/IntelliJ**.
 3. Configure MySQL database with provided schema (`database.sql`).
@@ -58,7 +58,7 @@ This system simulates core banking operations such as **balance inquiry, cash wi
 
 ##  Documentation
 
- Full **SRS (Software Requirement Specification)**, **use cases**, **class diagrams**, and **design details** are available in the project [Wiki](https://github.com/TofayelAbhi/CSE_327_Project/wiki/SRS).
+ Full **SRS (Software Requirement Specification)**, **use cases**, **class diagrams**, and **design details** are available in the project [Wiki](https://github.com/TofayelAbhi/ATM-Simulation-Bank-Management/wiki/SRS).
 
 ---
 
@@ -67,12 +67,5 @@ This system simulates core banking operations such as **balance inquiry, cash wi
 *  GUI improvements with JavaFX / Swing
 *  Enhanced security with encryption
 *  Support for online transactions
-
----
-
-##  License
-
-This project is for **educational purposes** (North South University – CSE327).
-Feel free to fork and improve.
 
 ---
