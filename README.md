@@ -52,7 +52,7 @@ This system simulates core banking operations such as **balance inquiry, cash wi
 ##  Team Members
 
 * **Tofayel Ahmed Abhi**
-* **\Rifa Nanziba Keka and Rafid Asek**
+* **Rifa Nanziba Keka and Rafid Asek**
 
 ---
 
