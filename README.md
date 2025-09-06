@@ -76,5 +76,3 @@ This project is for **educational purposes** (North South University – CSE327)
 Feel free to fork and improve.
 
 ---
-
-👉 Would you like me to make this README **short and minimal for recruiters** (just overview + features + how to run), or keep it **detailed academic style** (with diagrams + SRS reference + team info)?
