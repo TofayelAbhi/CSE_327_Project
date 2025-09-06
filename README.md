@@ -52,13 +52,13 @@ This system simulates core banking operations such as **balance inquiry, cash wi
 ##  Team Members
 
 * **Tofayel Ahmed Abhi**
-* **\[Rifa Nanziba Keka, Rafid Asek]**
+* **\Rifa Nanziba Keka and Rafid Asek**
 
 ---
 
 ##  Documentation
 
- Full **SRS (Software Requirement Specification)**, **use cases**, **class diagrams**, and **design details** are available in the project [Wiki](https://github.com/TofayelAbhi/CSE_327_Project/wiki).
+ Full **SRS (Software Requirement Specification)**, **use cases**, **class diagrams**, and **design details** are available in the project [Wiki](https://github.com/TofayelAbhi/CSE_327_Project/wiki/SRS).
 
 ---
 
